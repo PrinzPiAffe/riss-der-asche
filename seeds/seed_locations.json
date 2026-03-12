@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Haven",
+    "description": "Eine befestigte Stadt und letzte Bastion der Menschheit.
+Hier tummeln sich Händler, Krieger, Söldner und zwielichtige Gestalten. Die 
+Stadtmauern bieten Sicherheit, doch dunkle Geheimnisse lauern in den Gassen.",
+    "region": "Zentral",
+    "adjacent_locations": ["Schwarzforst", "Rissrand"]
+  },
+  {
+    "name": "Schwarzforst",
+    "description": "Ein dichter, finsterer Wald, dessen Bäume so alt wie die
+Welt selbst wirken. Mythische Kreaturen und Krähenmenschen treiben hier ihr 
+Unwesen.",
+    "region": "Nord",
+    "adjacent_locations": ["Haven", "Rissrand"]
+  },
+  {
+    "name": "Rissrand",
+    "description": "Die ausgedörrte Grenze zum Riss, einer chaotischen Narbe
+in der Welt. Nur die Tapfersten wagen sich hierher, um seltene Ressourcen zu 
+bergen oder Dämonen zu jagen.",
+    "region": "Süd",
+    "adjacent_locations": ["Haven", "Schwarzforst"]
+  }
+]
