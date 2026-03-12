@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Kurzschwert",
+    "description": "Ein einfaches, aber verlässliches Schwert. Perfekt für 
+Anfänger.",
+    "type": "weapon",
+    "rarity": "common",
+    "properties": { "damage": "1d6", "handed": 1 },
+    "value": 50
+  },
+  {
+    "name": "Lederpanzer",
+    "description": "Leichte Rüstung aus gehärtetem Leder. Bietet geringen 
+Schutz ohne Beweglichkeit einzuschränken.",
+    "type": "armor",
+    "rarity": "common",
+    "properties": { "ac": 11 },
+    "value": 75
+  },
+  {
+    "name": "Heiltrank",
+    "description": "Ein roter, dickflüssiger Trank, der Wunden schließt und 
+Kraft zurückgibt.",
+    "type": "consumable",
+    "rarity": "common",
+    "properties": { "heal": "2d4+2" },
+    "value": 25
+  }
+]
