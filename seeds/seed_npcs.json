@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Meisterin Aurelia",
+    "role": "Questgeberin",
+    "location": "Haven",
+    "dialogue": {
+      "greeting": "Willkommen, Abenteurer. Ich habe eine Aufgabe für Euch.",
+      "quest_offer": "Im Schwarzforst suchen wir einen verlorenen Lehrling. 
+Findet ihn und bringt ihn heil zurück.",
+      "quest_complete": "Ihr habt den Lehrling gefunden? Gut gemacht! Hier 
+ist Eure Belohnung."
+    },
+    "faction": "Orden der Flamme"
+  },
+  {
+    "name": "Garros der Schmied",
+    "role": "Händler",
+    "location": "Haven",
+    "dialogue": {
+      "greeting": "Braucht Ihr Waffen oder Rüstungen? Ich habe das Beste in 
+ganz Haven.",
+      "buy": "Seht Euch um, vielleicht findet Ihr etwas Nützliches.",
+      "farewell": "Kommt bald wieder. Eure Klingen müssen scharf bleiben."
+    },
+    "faction": null
+  },
+  {
+    "name": "Krähenpriesterin Ylva",
+    "role": "Verbündete",
+    "location": "Schwarzforst",
+    "dialogue": {
+      "greeting": "Die Krähen haben Euch erwartet. Ihr habt den Mut, in den 
+Schatten zu wandern?",
+      "advice": "Haltet die Augen offen und die Klinge bereit. Der Wald 
+verschlingt die Unvorsichtigen."
+    },
+    "faction": "Krähenorden"
+  }
+]
