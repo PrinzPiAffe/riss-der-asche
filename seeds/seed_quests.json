@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Fluch des Schwarzforsts",
+    "description": "Die Bewohner von Haven klagen über eine dunkle Macht im Schwarzforst. Finde die Quelle des Fluchs und befreie den Wald.",
+    "giver": "Meisterin Aurelia",
+    "location": "Haven",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Untersuche den Schwarzforst und finde die Quelle des Fluchs",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "description": "Besiege den korrumpierten Baum und befreie den Wald",
+        "completed": false
+      }
+    ],
+    "reward": {
+      "experience": 50,
+      "gold": 10,
+      "items": ["Heiltrank"]
+    },
+    "prerequisites": []
+  },
+  {
+    "id": 2,
+    "title": "Verschwundene Dorfbewohner",
+    "description": "Mehrere Bewohner wurden in der Nähe des Waldrands vermisst. Finde sie und bringe sie sicher zurück.",
+    "giver": "Garros der Schmied",
+    "location": "Haven",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Sprich mit den Angehörigen der Vermissten",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "description": "Finde die Spuren im Wald",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "description": "Rette die Dorfbewohner",
+        "completed": false
+      }
+    ],
+    "reward": {
+      "experience": 75,
+      "gold": 15,
+      "items": ["Lederpanzer"]
+    },
+    "prerequisites": [1]
+  },
+  {
+    "id": 3,
+    "title": "Rissforschung",
+    "description": "Die Risse werden instabiler. Ylva benötigt Proben aus dem Rissrand, um ihre Untersuchungen fortzusetzen.",
+    "giver": "Krähenpriesterin Ylva",
+    "location": "Haven",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Reise zum Rissrand und sammle Rissenergieproben",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "description": "Bringe die Proben zu Ylva zurück",
+        "completed": false
+      }
+    ],
+    "reward": {
+      "experience": 100,
+      "gold": 20,
+      "items": ["Magier-Hand"]
+    },
+    "prerequisites": []
+  }
+]
