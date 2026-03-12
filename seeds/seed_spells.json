@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Magier-Hand",
+    "level": 0,
+    "school": "Hervorrufung",
+    "description": "Du erschaffst eine schimmernde, gespenstische Hand, die 
+Objekte tragen kann.",
+    "casting_time": "1 Aktion",
+    "duration": "1 Minute",
+    "components": "V, G",
+    "range": "9 m"
+  },
+  {
+    "name": "Nebel Schritt",
+    "level": 2,
+    "school": "Teleportation",
+    "description": "Du verschwindest in einem Hauch silbrigen Nebels und 
+tauchst an einem anderen Ort wieder auf.",
+    "casting_time": "1 Bonusaktion",
+    "duration": "Sofort",
+    "components": "V",
+    "range": "9 m"
+  },
+  {
+    "name": "Jägerzeichen",
+    "level": 1,
+    "school": "Verstärkung",
+    "description": "Du markierst ein Ziel als Deine Beute und erhältst einen
+ Bonus auf Schäden gegen dieses Ziel.",
+    "casting_time": "1 Bonusaktion",
+    "duration": "1 Stunde",
+    "components": "V",
+    "range": "27 m"
+  }
+]
